@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt">
+<meta charset="UTF-8">
+<head>
+  <title>Natalício Dinis Malengue - Portfólio</title>
+  <style>
+    body {
+      font-family: times new roman, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: blue;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: blue;
+      color: white;
+      border: 1px solid #ddd;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+  .footer {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+}
+  .foto-perfil {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 40%;
+  border: 2px solid #fff;
+}
+
+
+.icones img {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+
+  </style>
+</head>
+<header style="background: white;color: black; width: 100% auto; height: 90px;"><ol><big><big><big><strong>Página de Apresentação</strong></big></big></big></ol>
+  <div class="foto-perfil">
+  <img src="two.jpg" alt="Natalício Dinis Malengue" class="foto-perfil">
+</div>
+
+</header>
+<body>
+  <div class="container">
+    <h1><strong>Natalício Dinis Malengue</strong></h1>
+              
+    <p><strong><big><big><ol style="color: black">Técnico Medio de Informático de gestão</big></big></ol></strong></p>
+    <p>Endereço: Mulenvos, Luanda, Angola</p>
+    <p></p>
+    <p>Contacto: +244 972848836/ 955515061</p>
+    <h2>Redes sociais</h2>
+    <p><strong style="color: yellow;">Facebook:</strong> facebook.com/nataliciodmalengue</p>
+    <h3><big>Qualidades</big></h3>
+    <ol style="color: graydark;"><strong>
+      <p>Criativo;</p>
+      <p>Conhecimentos de HTML, CSS;</p>
+      <P>Conhecimentos sobre edição de imagem;</p>
+<p>Capacidade de trabalho e cumprimento de prazos.</p>‎
+      
+      
+      </strong></ol>
+    <h4><big><big>Objectivo/ Sobre Mim</big></big></h4>
+    <ul>
+      <p> Como estágio, venho para dar tudo de mim para o desenvolvimento e crescimento sustentavél da instituíção na qual fui aceite, devolvendo sempre o melhor resultando.
+        Sendo a empresa o meu foco principal. 
+      </p>  
+      
+    </ul>
+       
+    <h5><big><big><big>Experiências</big></big></big></h5>
+    <ul>
+    <p> Trabalhei como estagiário em uma armazém, assistindo diretamente ao gerente;</p>
+      <p>Trabalho como estagiário na <strong>F'DA MATA</strong>;</p>
+      </ul>
+  </div>
+</body>
+<p style="color:yellow">E-mail: nataliciodinizmalenguemalengue@gmail.com</p>
+<footer><ol><img src="fb.png" width="350px" height="100px auto"></ol>
+</footer>
+</html>
